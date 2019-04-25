@@ -1,2 +1,2 @@
 # argox-remote-printer
-WCF Server para impressão de etiquetas remotamente
+WCF Service para impressão de etiquetas na impressora [ARGOX Rabbit OS 214] remotamente
